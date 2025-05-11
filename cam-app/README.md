@@ -23,8 +23,10 @@ Scan QR code from running terminal with your phone with installed Expo go app to
 
 Updates might not apply to your mobile expo go instance upon rescanning the QR code.
 
-run: 
+run:
 
 ```bash
 npx expo start --clear
 ```
+
+To clear the cache before starting
