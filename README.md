@@ -1,4 +1,4 @@
-I am currently developing this app in a private organization and periodically updating this GitHub repo with the progress. 
+I am currently developing this app under a private organization and periodically updating this GitHub repo with the progress. 
 
 More to come very soon!
 
