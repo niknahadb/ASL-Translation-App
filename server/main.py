@@ -1,4 +1,3 @@
-# Set environment variables BEFORE importing anything else
 import os
 import sys
 
