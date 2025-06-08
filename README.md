@@ -2,6 +2,9 @@
 
 HORUS is an interactive application that enables seamless two-way communication between sign language users and non-signers. It also provides an engaging and educational platform for users to learn American Sign Language (ASL).
 
+![HORUS App Preview](cam-app/assets/images/horus-exmple.png)
+![HORUS Camera Preview](cam-app/assets/images/camera-example.png)
+
 ## Project Overview
 
 **HORUS** is a real-time American Sign Language (ASL) translation and learning system built using deep learning and computer vision. The system enables:
@@ -35,7 +38,7 @@ We use a transformer-based neural network with 87 million parameters. Each frame
 **Top-K accuracy**:
 
 | Metric | Score |
-|--------|-------|
+| ------ | ----- |
 | Top-1  | 0.810 |
 | Top-3  | 0.939 |
 | Top-5  | 0.958 |
@@ -58,7 +61,7 @@ HORUS runs inference on a remote compute instance equipped with:
 I optimized the system to keep end-to-end translation time under 4 seconds:
 
 | Step       | Time (s) |
-|------------|----------|
+| ---------- | -------- |
 | MP4 Decode | 0.5      |
 | MediaPipe  | 1.5      |
 | Model      | 0.5      |
